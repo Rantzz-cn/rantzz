@@ -2,5 +2,6 @@
 
 About me:
 
-- i like to create things that will make my life easier
+- i like to create things that will make my life easier.
+- whenever my code works, it satisfy my soul.
 
